@@ -12,4 +12,6 @@ Interactive visualizations include:
 
 Document includes visualization summaries and data-based business recommendations.
 
+![image](https://public.tableau.com/profile/patti.rodgers#!/vizhome/CitiBikesSpiderCharts/2500Trips)
+
 ![image](https://d21xlh2maitm24.cloudfront.net/nyc/Transparent-Bike.png?mtime=20160420134420)
